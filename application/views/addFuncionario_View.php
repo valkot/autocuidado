@@ -33,7 +33,7 @@
 							<a href="index.html" class="py-9">
 								<img alt="Logo" src="assets/dist/assets/media/logos/logo-3.svg" class="h-70px" />
 							</a>
-							<h1 class="fw-bolder fs-2qx pb-5 pb-md-10" style="color: #986923;">Mantenedor de usuarios</h1>
+							<h1 class="fw-bolder fs-2qx pb-5 pb-md-10" style="color: #986923;">Mantenedor de Funcionarios</h1>
 							<p class="fw-bold fs-2" style="color: #986923;">Favor de llenar todos los campos
 							</p>
 						</div>
